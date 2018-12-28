@@ -1,0 +1,54 @@
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+(node:21006) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+{ Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1351:14)
+    at listenInCluster (net.js:1392:12)
+    at Server.listen (net.js:1476:7)
+    at startExplorer (/home/ubuntu/zbj/blockchain-explorer/main.js:61:10)
+    at <anonymous>
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8080 }
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+
+Sync process is started for the network : [network-1] and client : [client-1]
+(node:21170) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Synchronizer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Failed to connect client peer, please check the configuration and peer status' ]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+Received kill signal, shutting down gracefully
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing explorer  >>>>>>>>>>>>>>>>>>>>>
+Closed out connections
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+(node:26699) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+{ Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1351:14)
+    at listenInCluster (net.js:1392:12)
+    at Server.listen (net.js:1476:7)
+    at startExplorer (/home/ubuntu/zbj/blockchain-explorer/main.js:61:10)
+    at <anonymous>
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8080 }
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+
+Sync process is started for the network : [network-1] and client : [client-1]
+(node:26829) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Synchronizer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Failed to connect client peer, please check the configuration and peer status' ]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+Received kill signal, shutting down gracefully
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing explorer  >>>>>>>>>>>>>>>>>>>>>
+Closed out connections
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>

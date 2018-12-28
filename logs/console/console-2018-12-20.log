@@ -1,0 +1,199 @@
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+(node:15917) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+{ Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1351:14)
+    at listenInCluster (net.js:1392:12)
+    at Server.listen (net.js:1476:7)
+    at startExplorer (/home/ubuntu/zbj/blockchain-explorer/main.js:61:10)
+    at <anonymous>
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8080 }
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+
+Sync process is started for the network : [network-1] and client : [client-1]
+(node:16020) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Synchronizer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Failed to connect client peer, please check the configuration and peer status' ]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+Received kill signal, shutting down gracefully
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing explorer  >>>>>>>>>>>>>>>>>>>>>
+Closed out connections
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+(node:2445) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 message listeners added. Use emitter.setMaxListeners() to increase limit
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+(node:11126) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+{ Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1351:14)
+    at listenInCluster (net.js:1392:12)
+    at Server.listen (net.js:1476:7)
+    at startExplorer (/home/ubuntu/zbj/blockchain-explorer/main.js:61:10)
+    at <anonymous>
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8080 }
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+
+Sync process is started for the network : [network-1] and client : [client-1]
+(node:11232) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Synchronizer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Failed to connect client peer, please check the configuration and peer status' ]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+Received kill signal, shutting down gracefully
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing explorer  >>>>>>>>>>>>>>>>>>>>>
+Closed out connections
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+(node:13973) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+{ Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1351:14)
+    at listenInCluster (net.js:1392:12)
+    at Server.listen (net.js:1476:7)
+    at startExplorer (/home/ubuntu/zbj/blockchain-explorer/main.js:61:10)
+    at <anonymous>
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8080 }
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+
+Sync process is started for the network : [network-1] and client : [client-1]
+(node:14064) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Synchronizer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Failed to connect client peer, please check the configuration and peer status' ]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+Received kill signal, shutting down gracefully
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing explorer  >>>>>>>>>>>>>>>>>>>>>
+Closed out connections
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+(node:14619) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+{ Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1351:14)
+    at listenInCluster (net.js:1392:12)
+    at Server.listen (net.js:1476:7)
+    at startExplorer (/home/ubuntu/zbj/blockchain-explorer/main.js:61:10)
+    at <anonymous>
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8080 }
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+
+Sync process is started for the network : [network-1] and client : [client-1]
+(node:14720) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Synchronizer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Failed to connect client peer, please check the configuration and peer status' ]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+Received kill signal, shutting down gracefully
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing explorer  >>>>>>>>>>>>>>>>>>>>>
+Closed out connections
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+(node:15243) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+{ Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1351:14)
+    at listenInCluster (net.js:1392:12)
+    at Server.listen (net.js:1476:7)
+    at startExplorer (/home/ubuntu/zbj/blockchain-explorer/main.js:61:10)
+    at <anonymous>
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8080 }
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+
+Sync process is started for the network : [network-1] and client : [client-1]
+(node:15333) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Synchronizer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Failed to connect client peer, please check the configuration and peer status' ]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+Received kill signal, shutting down gracefully
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing explorer  >>>>>>>>>>>>>>>>>>>>>
+Closed out connections
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+(node:16435) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+{ Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1351:14)
+    at listenInCluster (net.js:1392:12)
+    at Server.listen (net.js:1476:7)
+    at startExplorer (/home/ubuntu/zbj/blockchain-explorer/main.js:61:10)
+    at <anonymous>
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8080 }
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+
+Sync process is started for the network : [network-1] and client : [client-1]
+(node:16521) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Synchronizer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Failed to connect client peer, please check the configuration and peer status' ]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+Received kill signal, shutting down gracefully
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing explorer  >>>>>>>>>>>>>>>>>>>>>
+Closed out connections
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+(node:16881) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+{ Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1351:14)
+    at listenInCluster (net.js:1392:12)
+    at Server.listen (net.js:1476:7)
+    at startExplorer (/home/ubuntu/zbj/blockchain-explorer/main.js:61:10)
+    at <anonymous>
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8080 }
+postgres://hppoc:pass12345@127.0.0.1:5432/fabricexplorer
+
+Sync process is started for the network : [network-1] and client : [client-1]
+(node:16970) DeprecationWarning: grpc.load: Use the @grpc/proto-loader module with grpc.loadPackageDefinition instead
+<<<<<<<<<<<<<<<<<<<<<<<<<< Synchronizer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Failed to connect client peer, please check the configuration and peer status' ]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+Received kill signal, shutting down gracefully
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing explorer  >>>>>>>>>>>>>>>>>>>>>
+Closed out connections
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+BadRequestError: request aborted
+    at IncomingMessage.onAborted (/home/ubuntu/zbj/blockchain-explorer/node_modules/raw-body/index.js:231:10)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at abortIncoming (_http_server.js:412:9)
+    at socketOnClose (_http_server.js:406:3)
+    at emitOne (events.js:121:20)
+    at Socket.emit (events.js:211:7)
+    at TCP._handle.close [as _onclose] (net.js:554:12)
